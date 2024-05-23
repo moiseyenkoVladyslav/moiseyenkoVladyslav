@@ -1,5 +1,14 @@
-## Hi there 👋
+### Hi there 👋
+ **My name is Vladyslav Moiseyenko** - I studied Physics in University of Bonn and I am very interested in **software engineering**, specially **frontend development**,  **problem solving**, and **programming in general**.
 
+## Connect with me
+[<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/vladyslav-moiseyenko-27a217302/) &nbsp;
+
+## Skills
+Here are listed some skills of mine. _Here are my strongest skills. I am very passionate to learn new technologies and grow professionally_
+
+#### 
+[![Languages](https://skillicons.dev/icons?i=js,html,css,react,python,github,git,vscode)](https://skillicons.dev)
 <!--
 **moiseyenkoVladyslav/moiseyenkoVladyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
